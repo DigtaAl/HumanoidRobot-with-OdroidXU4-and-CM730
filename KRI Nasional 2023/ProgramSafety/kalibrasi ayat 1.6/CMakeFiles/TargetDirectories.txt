@@ -1,0 +1,3 @@
+/home/odroid/LKR/Regional/22second/kalibrasi ayat 1.6/CMakeFiles/rebuild_cache.dir
+/home/odroid/LKR/Regional/22second/kalibrasi ayat 1.6/CMakeFiles/edit_cache.dir
+/home/odroid/LKR/Regional/22second/kalibrasi ayat 1.6/CMakeFiles/kalibrasi.dir
