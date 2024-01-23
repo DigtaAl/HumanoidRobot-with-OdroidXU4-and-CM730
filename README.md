@@ -1,1 +1,1 @@
-	[Google](https://www.google.com) - _Google | Youtube | Gmail | Maps | PlayStore | GoogleDrive_
+# [Manual Installation](bit.ly/al-guide)
