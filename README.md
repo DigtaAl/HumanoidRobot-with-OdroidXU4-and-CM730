@@ -1,2 +1,2 @@
-# Manual Installation
+## Manual Installation
 [Al-Guide](bit.ly/al-guide)
