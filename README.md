@@ -1,1 +1,1 @@
-Manual Installation "bit.ly/al-guide"
+Manual Installation bit.ly/al-guide
