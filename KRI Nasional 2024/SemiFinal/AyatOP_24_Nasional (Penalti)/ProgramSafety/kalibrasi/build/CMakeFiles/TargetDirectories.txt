@@ -1,0 +1,3 @@
+/home/odroid/AyatOP_24_Nasional/ProgramSafety/kalibrasi/build/CMakeFiles/rebuild_cache.dir
+/home/odroid/AyatOP_24_Nasional/ProgramSafety/kalibrasi/build/CMakeFiles/edit_cache.dir
+/home/odroid/AyatOP_24_Nasional/ProgramSafety/kalibrasi/build/CMakeFiles/kalibrasi.dir
