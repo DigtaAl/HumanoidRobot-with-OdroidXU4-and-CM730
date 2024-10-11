@@ -1,0 +1,3 @@
+/home/odroid/AyatOP_24-Regional 4/ProgramSafety/kalibrasi ayat 1.6/kalibrasi/build/CMakeFiles/rebuild_cache.dir
+/home/odroid/AyatOP_24-Regional 4/ProgramSafety/kalibrasi ayat 1.6/kalibrasi/build/CMakeFiles/edit_cache.dir
+/home/odroid/AyatOP_24-Regional 4/ProgramSafety/kalibrasi ayat 1.6/kalibrasi/build/CMakeFiles/kalibrasi.dir
